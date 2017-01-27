@@ -1,4 +1,4 @@
-# go-further-2 - Deep-dive in recievers and interface types.
+# Deep-dive in recievers and interface types.
 
 Over the last week I've had several discussions with people regarding receiver types, pointers, and especially the way they work with interface. 
 So I took some time to investigate how they work, and I wanted to share my findings with you guys.
